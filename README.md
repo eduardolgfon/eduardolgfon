@@ -1,8 +1,10 @@
 <p align="center">👋 Howdy, I'm Sunf3r!</p>
 
-꒰⭐꒱・I'm just another normal homeless developer trained in creating Bugs™・
+"The life is hard, but my dick is more."
 
-- - -
+\- Aristotle, 369 a.c.
+
+<img src="https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixsS9oDUuCq64xdeMfiHtWtkqAHQDdgEdtGfnzzKMQNR5RNFeGrZKCNT5szG7xocsbPCrBFwtCFJQcWmHNWfo?format=match&mode=fit">
 
 **➯ Something about me ❤️:**
 
@@ -34,6 +36,7 @@
 
 <details>
     <summary><strong>My Statistics 🚀</strong></summary>
+
 <img height='250' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunf3r&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
 <img height='130' align="center" src="https://github-readme-stats.vercel.app/api?username=sunf3r&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
 
@@ -43,6 +46,6 @@
 </br>
 
 <a href="https://twitter.com/Sunf3r">
-<code align='right'><img height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
 <a href="https://discord.com/users/568493382884917258">
-<code align='right'><img height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
