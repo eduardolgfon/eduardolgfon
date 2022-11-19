@@ -2,7 +2,7 @@
     <img width='600' style='border-radius: 15px' src='assets/banner.gif'>
     </br>
     </br>
-    "The life is hard, but my dick is more." - Aristotle, 369 a.c.
+    "The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69</strong> a.c.
 </p>
 
 <img src="assets/separator.gif">
@@ -32,7 +32,7 @@
 <code><img height="30" src="https://skills.thijs.gg/icons?i=mongodb"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=prisma"></code>
 
-**➯ My tools <img height="20" src="assets/gear.gif">**
+**➯ <img height="20" src="assets/gear.gif"> My tools**
 
 <code><img height="30" src="https://skills.thijs.gg/icons?i=vscode"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=linux"></code>
