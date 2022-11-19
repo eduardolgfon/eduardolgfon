@@ -10,9 +10,9 @@
 **➯ Something about me ❤️**
 
 - <img height="20" src="https://skills.thijs.gg/icons?i=ts"> Currently studying
-  TypeScript;
+  **TypeScript**;
 
-- <img height=20 src="assets/br_flag.png"> Brazilian resident;
+- <img height=20 src="assets/br_flag.png"> **Brazilian** resident;
 
 - <img height=20 src="assets/cake.gif"> My cake day is **04/05**;
 
@@ -32,7 +32,7 @@
 <code><img height="30" src="https://skills.thijs.gg/icons?i=mongodb"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=prisma"></code>
 
-**➯ <img height="20" src="assets/gear.gif"> My tools**
+**➯ My Tools <img height="15" src="assets/gear.gif">**
 
 <code><img height="30" src="https://skills.thijs.gg/icons?i=vscode"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=linux"></code>
