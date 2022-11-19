@@ -53,6 +53,4 @@
 <a href="https://twitter.com/Sunf3r">
 <code><img height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
 <a href="https://discord.com/users/568493382884917258">
-<code><img height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
-
-</div>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a></div>
