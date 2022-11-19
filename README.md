@@ -1,11 +1,11 @@
-<img align='center' src='assets/banner.gif'>
+<p align='center'><img src='assets/banner.gif'></p>
 
 <br>
 "The life is hard, but my dick is more."
 
 \- Aristotle, 369 a.c.
 
-<img src="https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixsS9oDUuCq64xdeMfiHtWtkqAHQDdgEdtGfnzzKMQNR5RNFeGrZKCNT5szG7xocsbPCrBFwtCFJQcWmHNWfo?format=match&mode=fit">
+<img src="assets/separator.gif">
 
 **➯ Something about me ❤️:**
 
