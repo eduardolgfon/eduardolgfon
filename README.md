@@ -1,5 +1,6 @@
-<p align="center">👋 Howdy, I'm Sunf3r!</p>
+<img align='center' src='assets/banner.gif'>
 
+<br>
 "The life is hard, but my dick is more."
 
 \- Aristotle, 369 a.c.
@@ -11,7 +12,7 @@
 - <img height="16" src="https://skills.thijs.gg/icons?i=ts"> Currently studying
   TypeScript;
 
-- <img height=20 src="icons/br_flag.png"> Brazilian resident;
+- <img height=20 src="assets/br_flag.png"> Brazilian resident;
 
 - 🍰 My cake day is 04/05;
 
