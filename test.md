@@ -18,7 +18,9 @@
 
 - <img height=20 src="assets/cake.gif"> My cake day is 04/05;
 
-- ❤️ I wanna learn <img height="16" src="https://skills.thijs.gg/icons?i=kotlin"> and <img height="16" src="https://skills.thijs.gg/icons?i=java"> =];
+- ❤️ I wanna learn
+  <img height="16" src="https://skills.thijs.gg/icons?i=kotlin"> and
+  <img height="16" src="https://skills.thijs.gg/icons?i=java"> =];
 
 **➯ My Skills 🎯**
 
@@ -52,3 +54,5 @@
 <code><img height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
 <a href="https://discord.com/users/568493382884917258">
 <code><img height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
+
+</div>
