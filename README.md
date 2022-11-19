@@ -6,7 +6,8 @@
 
 **➯ Something about me ❤️:**
 
-- <img height="16" src="https://skills.thijs.gg/icons?i=ts"> Currently studying TypeScript;
+- <img height="16" src="https://skills.thijs.gg/icons?i=ts"> Currently studying
+  TypeScript;
 
 - <img height=20 src="icons/br_flag.png"> Brazilian resident;
 
@@ -16,11 +17,20 @@
 
 **➯ My Skills 🎯**
 
-<code><img height="25" src="https://skills.thijs.gg/icons?i=ts,js,html,css,deno,nodejs,postgresql,mongodb,prisma,discord"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=ts"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=js"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=html"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=css"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=deno"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=nodejs"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=postgresql"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=mongodb"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=prisma"></code>
 
 **➯ My tools 🔧**
 
-<code><img height="25" src="https://skills.thijs.gg/icons?i=vscode,linux"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=vscode"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=linux"></code>
 
 <details>
     <summary><strong>My Statistics 🚀</strong></summary>
@@ -32,5 +42,7 @@
 </br>
 </br>
 
-<code><img align="right" width="25px" src="icons/twitter.png" href="https://twitter.com/Sunf3r"></code>
-<code><img align="right" height="20px" src="icons/discord.png" href="https://discord.com/users/568493382884917258"></code>
+<a href="https://twitter.com/Sunf3r">
+<code><img align='right' height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
+<a href="https://discord.com/users/568493382884917258">
+<code><img align='right' height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
