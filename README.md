@@ -1,35 +1,26 @@
 <p align="center">👋 Howdy, I'm Sunf3r!</p>
 
-</br>
-
 ꒰⭐꒱・I'm just another normal homeless developer trained in creating Bugs™・
+
+<br>
 
 **➯ Something about me ❤️:**
 
-- <img height=17 src="icons/ts.png"> Currently studying TypeScript;
+- <img height="16" src="https://skills.thijs.gg/icons?i=ts"> Currently studying TypeScript;
 
 - <img height=20 src="icons/br_flag.png"> Brazilian resident;
 
 - 🍰 My cake day is 04/05;
 
-- ❤️ I wanna learn HTML, Kotlin and Java =];
+- ❤️ I wanna learn Kotlin and Java =];
 
 **➯ My Skills 🎯**
 
-<code><img height="20" src="icons/js.png"></code>
-<code><img height="20" src="icons/ts.png"></code>
-<code><img height="20" src="icons/deno.gif"></code>
-<code><img height="20" src="icons/node.png"></code>
-<code><img height="20" src="icons/postgresql.png"></code>
-<code><img height="21" src="icons/mongodb.png"></code>
-<code><img height="21" src="icons/prisma.png"></code>
-<code><img height="17" src="icons/discord.png"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=ts,js,html,css,deno,nodejs,postgresql,mongodb,prisma,discord"></code>
 
 **➯ My tools 🔧**
 
-<code><img height="20" src="icons/tux.png"></code>
-<code><img height="20" src="icons/vscode.png"></code>
-<code><img height="20" src="icons/tux.png"></code>
+<code><img height="25" src="https://skills.thijs.gg/icons?i=vscode,linux"></code>
 
 <details>
     <summary><strong>My Statistics 🚀</strong></summary>
