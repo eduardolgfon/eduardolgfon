@@ -2,7 +2,7 @@
 
 ꒰⭐꒱・I'm just another normal homeless developer trained in creating Bugs™・
 
-<br>
+- - -
 
 **➯ Something about me ❤️:**
 
@@ -43,6 +43,6 @@
 </br>
 
 <a href="https://twitter.com/Sunf3r">
-<code><img align='right' height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
+<code align='right'><img height="25" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
 <a href="https://discord.com/users/568493382884917258">
-<code><img align='right' height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
+<code align='right'><img height="25" src="https://skills.thijs.gg/icons?i=discord"></code></a>
