@@ -1,9 +1,9 @@
-<p align='center'><img src='assets/banner.gif'></p>
-
-<br>
-"The life is hard, but my dick is more."
-
-\- Aristotle, 369 a.c.
+<p align='center'>
+    <img width='600' style='border-radius: 15px' src='assets/banner.gif'>
+    </br>
+    </br>
+    "The life is hard, but my dick is more." - Aristotle, 369 a.c.
+</p>
 
 <img src="assets/separator.gif">
 
@@ -14,9 +14,11 @@
 
 - <img height=20 src="assets/br_flag.png"> Brazilian resident;
 
-- 🍰 My cake day is 04/05;
+- <img height=20 src="assets/cake.gif"> My cake day is 04/05;
 
-- ❤️ I wanna learn Kotlin and Java =];
+- ❤️ I wanna learn
+  <code><img height="16" src="https://skills.thijs.gg/icons?i=kotlin"></code> and
+  <img height="16" src="https://skills.thijs.gg/icons?i=java"> =]
 
 **➯ My Skills 🎯**
 
