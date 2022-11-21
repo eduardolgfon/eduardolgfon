@@ -3,19 +3,18 @@
 
     ➯ Please confirm you are not a robot before continue 🤖
 
-<!-- </br> -->
 <img height='75' src="assets/captcha.gif">
 
 </br>
-    
-    ➯ You can go now! ✅
-</strong>
 
+    ➯ You can go now! ✅
+
+</strong>
 </br>
-    <img width='600' style='border-radius: 15px' src='assets/banner.gif'>
-    </br>
-    </br>
-    "The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69</strong> a.c.
+<img width='600' src='assets/banner.gif'>
+</br>
+</br>
+"The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69</strong> a.c.
 
 <img src="assets/separator.gif">
 </div>
