@@ -50,7 +50,7 @@ Nice! You can go now.
     <summary><strong>My Statistics <img height="20" src="assets/rocket.gif"></strong></summary>
 
 <img height='300' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunf3r&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
-<img height='200' align="right" src="https://github-readme-stats.vercel.app/api?username=sunf3r&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
+<img height='175' align="right" src="https://github-readme-stats.vercel.app/api?username=sunf3r&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true">
 
 </details>
 
