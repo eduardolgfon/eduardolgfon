@@ -1,10 +1,19 @@
+Please confirm you are not a robot before continue.
+
+<img height=75 src="assets/captcha.gif">
+
+</br>
+
+Nice! You can go now.
+
+</br>
+
 <p align='center'>
     <img width='600' style='border-radius: 15px' src='assets/banner.gif'>
     </br>
     </br>
     "The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69</strong> a.c.
 </p>
-
 <img src="assets/separator.gif">
 
 **➯ Something about me ❤️**
