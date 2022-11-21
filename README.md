@@ -6,11 +6,12 @@
 <img height='75' src="assets/captcha.gif">
 
 </br>
+</br>
 
     ➯ You can go now! ✅
 
-</strong>
 </br>
+</strong>
 <img width='600' src='assets/banner.gif'>
 </br>
 </br>
