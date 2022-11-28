@@ -55,10 +55,8 @@
 
 </br>
 
-<img height='300' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunf3r&bg_color=30,ff008a,7f00ff&title_color=fff&text_color=fff">
-<img height='175' align="right" src="https://github-readme-stats.vercel.app/api?username=sunf3r&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,000000,7f00ff&title_color=fff&text_color=fff">
-</br>
-<img align="right" src="https://komarev.com/ghpvc/?username=sunf3r&color=blue&style=for-the-badge">
+<code><img height='300' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunf3r&bg_color=30,ff008a,7f00ff&title_color=fff&text_color=fff"></code>
+<code><img height='175' align="right" src="https://github-readme-stats.vercel.app/api?username=sunf3r&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,000000,7f00ff&title_color=fff&text_color=fff"></code>
 
 </details>
 
@@ -69,3 +67,4 @@
 <code><img height="20" src="https://skills.thijs.gg/icons?i=twitter"></code></a>
 <a href="https://discord.com/users/568493382884917258">
 <code><img height="20" src="https://skills.thijs.gg/icons?i=discord"></code></a>
+<code><img align="right" src="https://komarev.com/ghpvc/?username=sunf3r&color=blue&style=for-the-badge"></code>
