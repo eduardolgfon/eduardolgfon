@@ -51,7 +51,7 @@
 <code><img height="30" src="https://skills.thijs.gg/icons?i=linux"></code>
 
 <details>
-    <summary><strong>My Statistics <img height="20" src="assets/rocket.gif"></strong></summary>
+    <summary><strong>Github Statistics <img height="20" src="assets/rocket.gif"></strong></summary>
 
 </br>
 
