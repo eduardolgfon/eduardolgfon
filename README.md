@@ -15,7 +15,7 @@
 <img width='600' src='assets/banner.gif'>
 </br>
 </br>
-"The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69</strong> a.c.
+"The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69</strong> b.c.
 
 <img src="assets/separator.gif">
 </div>
