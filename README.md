@@ -4,13 +4,10 @@
 </br>
 "The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69 b.b.c</strong> .
 
-
-<a href='https://pngtree.com/freepng/decorative-line-divider-arrow_8242599.html'>
-  <img width='600' title="png image from pngtree.com" src="assets/divider.png">
-</a>
+<img width='600' src="assets/divider.png">
 </div>
 
-### **➯ Something about me** <code><a href="https://www.flaticon.com/authors/frelayasia"> <img height="20" title="Heart icons created by juicy_fish - Flaticon" src="icons/heart.png"> </a></code>
+### **➯ Something about me** <code><a href="https://www.flaticon.com/authors/frelayasia"> <img height="20" title="Heart icons created by frelayasia - Flaticon" src="icons/heart.png"> </a></code>
 
 - <img height="20" src="https://skillicons.dev/icons?i=ts"> Studying **TypeScript**;
 
@@ -21,7 +18,7 @@
 <br>
 <details>
     <summary>
-      <strong>Skills <code><a href="https://www.flaticon.com/authors/karyative"> <img height="20" title="Skill icons created by juicy_fish - Flaticon" src="icons/skill.png"> </a></code>
+      <strong>Skills <code><a href="https://www.flaticon.com/authors/karyative"> <img height="20" title="Skill icons created by karyative - Flaticon" src="icons/skill.png"> </a></code>
       </strong>
     </summary>
 
