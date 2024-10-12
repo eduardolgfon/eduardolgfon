@@ -18,7 +18,7 @@
 <br>
 <details>
     <summary>
-      <strong>Skills <code><a href="https://www.flaticon.com/authors/karyative"> <img height="20" title="Skill icons created by karyative - Flaticon" src="icons/skill.png"> </a></code>
+      <strong>Skills <code><a href="https://www.flaticon.com/authors/karyative"><img height="20" title="Skill icons created by karyative - Flaticon" src="icons/skill.png"></a></code>
       </strong>
     </summary>
 
@@ -85,7 +85,7 @@
 
 <details>
     <summary>
-      <strong>Stats  <code><a href="https://www.flaticon.com/authors/freepik"> <img height="20" title="Stats icons created by Freepik - Flaticon" src="icons/analytics.png"> </a></code>
+      <strong>Stats  <code><a href="https://www.flaticon.com/authors/freepik"><img height="20" title="Stats icons created by Freepik - Flaticon" src="icons/analytics.png"></a></code>
       </strong>
     </summary>
 
@@ -99,7 +99,7 @@
 </br>
 
 <a href="https://twitter.com/Sunf3r">
-<code><img height="20" src="https://skillicons.dev/icons?i=twitter"></code>
-</a><a href="https://discord.com/users/568493382884917258">
-<code><img height="20" src="https://skillicons.dev/icons?i=discord"></code>
-</a><code><img src="https://komarev.com/ghpvc/?username=sunf3r&color=blue&style=for-the-badge"></code>
+<code><img height="20" src="https://skillicons.dev/icons?i=twitter"></code></a>
+<a href="https://discord.com/users/568493382884917258">
+<code><img height="20" src="https://skillicons.dev/icons?i=discord"></code></a>
+<code><img src="https://komarev.com/ghpvc/?username=sunf3r&color=blue&style=for-the-badge"></code>
