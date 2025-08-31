@@ -43,7 +43,8 @@
 
 <code><img height="30" src="https://skillicons.dev/icons?i=express"></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=prisma"></code>
-<code><img height="30" src="https://skillicons.dev/icons?i=nginx"></code>
+<code><img height
+="30" src="https://skillicons.dev/icons?i=nginx"></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=bash,git"></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=nodejs,deno,bun"></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=discordjs"></code>
@@ -56,21 +57,10 @@
 <code><img height="30" src="distros/fedora.png"><img height="30" src="distros/garudap.png"></code>
 <code><img height="30" src="distros/debian.png"><img height="30" src="distros/ubuntu.png"><img height="30" src="distros/pop.png"><img height="30" src="distros/zorin.png"><img height="30" src="distros/deepin.png"><img height="30" src="distros/void.png"><img height="30" src="distros/mx.png"></code>
 <code><img height="30" src="distros/suse.png"></code>
-</details>
-<br>
 
-<details>
-    <summary>
-      <strong>Stats <code><a href="https://www.flaticon.com/authors/freepik"><img width="25" title="Stats icons created by Freepik - Flaticon" src="icons/analytics.png"></a></code>
-      </strong>
-    </summary>
-<br>
 <img height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunf3r&bg_color=30,ff008a,7f00ff&title_color=fff&text_color=fff">
 
-<img height='175' src="https://github-readme-stats.vercel.app/api?username=sunf3r&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,000000,7f00ff&title_color=fff&text_color=fff">
 </details>
-
-
 </br>
 </br>
 
