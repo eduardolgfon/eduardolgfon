@@ -1,12 +1,3 @@
-<div align='center'>
-<img width='600' src='assets/banner.gif'>
-</br>
-</br>
-"The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69 b.b.c</strong> .
-
-<img width='600' src="assets/divider.png">
-</div>
-
 ### **➯ Something about me** <code><a href="https://www.flaticon.com/authors/frelayasia"><img height="30" title="Heart icons created by frelayasia - Flaticon" src="icons/heart.png"></a></code>
 
 - <img width="25" src="https://skillicons.dev/icons?i=ts"> Studying **TypeScript**;
@@ -62,10 +53,9 @@
 
 </details>
 </br>
-</br>
 
-<a href="https://twitter.com/Sunf3r">
-<code><img height="30" src="https://skillicons.dev/icons?i=twitter"></code></a>
+"The life is <strong>hard</strong>, but my <strong>dick</strong> is more." - Aristotle, 3<strong>69 b.b.c</strong> .
+
 <a href="https://discord.com/users/568493382884917258">
 <code><img height="30" src="https://skillicons.dev/icons?i=discord"></code></a>
 <code><img src="https://komarev.com/ghpvc/?username=sunf3r&color=blue&style=for-the-badge"></code>
